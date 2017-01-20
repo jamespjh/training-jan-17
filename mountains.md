@@ -5,4 +5,5 @@ Here is a list of mountains:
 
 * Scafell Pike
 * Ben Nevis
+* Mount Fictional
 * Snowdon
