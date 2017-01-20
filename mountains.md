@@ -1,4 +1,4 @@
-Some notes about tall mountains and lakes
+Some notes about mountains and lakes
 ==========================
 
 Here is a list of mountains:
